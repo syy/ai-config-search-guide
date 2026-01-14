@@ -561,28 +561,28 @@ Start broad, then narrow down. Here's how to explore Claude Code configurations:
 ```
 Step 1: Start with the tool's directory
         path:.claude
-        → See all Claude Code configs (settings, rules, skills, hooks...)
+        > See all Claude Code configs (settings, rules, skills, hooks...)
 
 Step 2: Narrow to a specific config type
         path:.claude/skills
-        → Only skill files
+        > Only skill files
 
 Step 3: Add a keyword to find specific skills
         api path:.claude/skills
-        → Skills related to API development
+        > Skills related to API development
 
 Step 4: Use OR for related terms
         (api OR rest OR graphql) path:.claude/skills
-        → Catches different API styles
+        > Catches different API styles
 ```
 
 **Another example:** Exploring Cursor configurations
 
 ```
-Step 1: path:.cursor                              → All Cursor configs
-Step 2: path:.cursor/rules                        → Only rules
-Step 3: typescript path:.cursor/rules             → TypeScript-related rules
-Step 4: (typescript OR javascript) path:.cursor/rules  → Both TS and JS
+Step 1: path:.cursor                                   > All Cursor configs
+Step 2: path:.cursor/rules                             > Only rules
+Step 3: typescript path:.cursor/rules                  > TypeScript-related rules
+Step 4: (typescript OR javascript) path:.cursor/rules  > Both TS and JS
 ```
 
 **Filter cheatsheet:**
