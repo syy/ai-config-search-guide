@@ -144,50 +144,50 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Skills
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.claude/skills/` | [`path:.claude/skills`](https://github.com/search?q=path%3A.claude%2Fskills&type=code) | Skills directory |
-| `SKILL.md` | [`path:**/SKILL.md`](https://github.com/search?q=path%3A**%2FSKILL.md&type=code) | Skill definition files |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.claude/skills/` | `path:.claude/skills` | Skills directory | [Try](https://github.com/search?q=path%3A.claude%2Fskills&type=code) |
+| `SKILL.md` | `path:**/SKILL.md` | Skill definition files | [Try](https://github.com/search?q=path%3A**%2FSKILL.md&type=code) |
 
 #### Settings
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.claude/settings.json` | [`path:.claude/settings.json`](https://github.com/search?q=path%3A.claude%2Fsettings.json&type=code) | Project settings |
-| `.claude/settings.local.json` | [`path:.claude/settings.local.json`](https://github.com/search?q=path%3A.claude%2Fsettings.local.json&type=code) | Local overrides |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.claude/settings.json` | `path:.claude/settings.json` | Project settings | [Try](https://github.com/search?q=path%3A.claude%2Fsettings.json&type=code) |
+| `.claude/settings.local.json` | `path:.claude/settings.local.json` | Local overrides | [Try](https://github.com/search?q=path%3A.claude%2Fsettings.local.json&type=code) |
 
 #### Context and Memory
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `CLAUDE.md` | [`path:**/CLAUDE.md`](https://github.com/search?q=path%3A**%2FCLAUDE.md&type=code) | Project context file |
-| `CLAUDE.local.md` | [`path:**/CLAUDE.local.md`](https://github.com/search?q=path%3A**%2FCLAUDE.local.md&type=code) | Personal context |
-| `.claude/rules/` | [`path:.claude/rules`](https://github.com/search?q=path%3A.claude%2Frules&type=code) | Modular rules |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `CLAUDE.md` | `path:**/CLAUDE.md` | Project context file | [Try](https://github.com/search?q=path%3A**%2FCLAUDE.md&type=code) |
+| `CLAUDE.local.md` | `path:**/CLAUDE.local.md` | Personal context | [Try](https://github.com/search?q=path%3A**%2FCLAUDE.local.md&type=code) |
+| `.claude/rules/` | `path:.claude/rules` | Modular rules | [Try](https://github.com/search?q=path%3A.claude%2Frules&type=code) |
 
 #### Hooks and Automation
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.claude/hooks/` | [`path:.claude/hooks`](https://github.com/search?q=path%3A.claude%2Fhooks&type=code) | Lifecycle hooks |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.claude/hooks/` | `path:.claude/hooks` | Lifecycle hooks | [Try](https://github.com/search?q=path%3A.claude%2Fhooks&type=code) |
 
 #### MCP (Model Context Protocol)
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.mcp.json` | [`path:**/.mcp.json`](https://github.com/search?q=path%3A**%2F.mcp.json&type=code) | MCP server config |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.mcp.json` | `path:**/.mcp.json` | MCP server config | [Try](https://github.com/search?q=path%3A**%2F.mcp.json&type=code) |
 
 #### Agents
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.claude/agents/` | [`path:.claude/agents`](https://github.com/search?q=path%3A.claude%2Fagents&type=code) | Custom subagents |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.claude/agents/` | `path:.claude/agents` | Custom subagents | [Try](https://github.com/search?q=path%3A.claude%2Fagents&type=code) |
 
 #### Legacy
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.claude/commands/` | [`path:.claude/commands`](https://github.com/search?q=path%3A.claude%2Fcommands&type=code) | Legacy commands |
-| `.claude.json` | [`path:**/.claude.json`](https://github.com/search?q=path%3A**%2F.claude.json&type=code) | Legacy user config |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.claude/commands/` | `path:.claude/commands` | Legacy commands | [Try](https://github.com/search?q=path%3A.claude%2Fcommands&type=code) |
+| `.claude.json` | `path:**/.claude.json` | Legacy user config | [Try](https://github.com/search?q=path%3A**%2F.claude.json&type=code) |
 
 ---
 
@@ -195,30 +195,30 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Rules
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.cursorrules` | [`path:**/.cursorrules`](https://github.com/search?q=path%3A**%2F.cursorrules&type=code) | Legacy rules file |
-| `.cursor/rules/` | [`path:.cursor/rules`](https://github.com/search?q=path%3A.cursor%2Frules&type=code) | Modern rules directory |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.cursorrules` | `path:**/.cursorrules` | Legacy rules file | [Try](https://github.com/search?q=path%3A**%2F.cursorrules&type=code) |
+| `.cursor/rules/` | `path:.cursor/rules` | Modern rules directory | [Try](https://github.com/search?q=path%3A.cursor%2Frules&type=code) |
 
 #### Hooks and MCP
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.cursor/hooks.json` | [`path:.cursor/hooks.json`](https://github.com/search?q=path%3A.cursor%2Fhooks.json&type=code) | Hook automation |
-| `.cursor/mcp.json` | [`path:.cursor/mcp.json`](https://github.com/search?q=path%3A.cursor%2Fmcp.json&type=code) | MCP configuration |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.cursor/hooks.json` | `path:.cursor/hooks.json` | Hook automation | [Try](https://github.com/search?q=path%3A.cursor%2Fhooks.json&type=code) |
+| `.cursor/mcp.json` | `path:.cursor/mcp.json` | MCP configuration | [Try](https://github.com/search?q=path%3A.cursor%2Fmcp.json&type=code) |
 
 #### Ignore Files
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.cursorignore` | [`path:**/.cursorignore`](https://github.com/search?q=path%3A**%2F.cursorignore&type=code) | Block AI access |
-| `.cursorindexingignore` | [`path:**/.cursorindexingignore`](https://github.com/search?q=path%3A**%2F.cursorindexingignore&type=code) | Exclude from indexing |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.cursorignore` | `path:**/.cursorignore` | Block AI access | [Try](https://github.com/search?q=path%3A**%2F.cursorignore&type=code) |
+| `.cursorindexingignore` | `path:**/.cursorindexingignore` | Exclude from indexing | [Try](https://github.com/search?q=path%3A**%2F.cursorindexingignore&type=code) |
 
 #### Agent Instructions
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `AGENTS.md` | [`path:**/AGENTS.md`](https://github.com/search?q=path%3A**%2FAGENTS.md&type=code) | Agent workflow instructions |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `AGENTS.md` | `path:**/AGENTS.md` | Agent workflow instructions | [Try](https://github.com/search?q=path%3A**%2FAGENTS.md&type=code) |
 
 ---
 
@@ -226,30 +226,30 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Rules
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.windsurfrules` | [`path:**/.windsurfrules`](https://github.com/search?q=path%3A**%2F.windsurfrules&type=code) | Project rules |
-| `global_rules.md` | [`path:**/global_rules.md`](https://github.com/search?q=path%3A**%2Fglobal_rules.md&type=code) | Global Cascade rules |
-| `.windsurf/rules/` | [`path:.windsurf/rules`](https://github.com/search?q=path%3A.windsurf%2Frules&type=code) | Rules directory |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.windsurfrules` | `path:**/.windsurfrules` | Project rules | [Try](https://github.com/search?q=path%3A**%2F.windsurfrules&type=code) |
+| `global_rules.md` | `path:**/global_rules.md` | Global Cascade rules | [Try](https://github.com/search?q=path%3A**%2Fglobal_rules.md&type=code) |
+| `.windsurf/rules/` | `path:.windsurf/rules` | Rules directory | [Try](https://github.com/search?q=path%3A.windsurf%2Frules&type=code) |
 
 #### Workflows and Memories
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.windsurf/workflows/` | [`path:.windsurf/workflows`](https://github.com/search?q=path%3A.windsurf%2Fworkflows&type=code) | Automation workflows |
-| `.windsurf/memories/` | [`path:.windsurf/memories`](https://github.com/search?q=path%3A.windsurf%2Fmemories&type=code) | Persistent context |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.windsurf/workflows/` | `path:.windsurf/workflows` | Automation workflows | [Try](https://github.com/search?q=path%3A.windsurf%2Fworkflows&type=code) |
+| `.windsurf/memories/` | `path:.windsurf/memories` | Persistent context | [Try](https://github.com/search?q=path%3A.windsurf%2Fmemories&type=code) |
 
 #### MCP
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `mcp_config.json` | [`path:**/mcp_config.json`](https://github.com/search?q=path%3A**%2Fmcp_config.json&type=code) | MCP configuration |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `mcp_config.json` | `path:**/mcp_config.json` | MCP configuration | [Try](https://github.com/search?q=path%3A**%2Fmcp_config.json&type=code) |
 
 #### Ignore
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.codeiumignore` | [`path:**/.codeiumignore`](https://github.com/search?q=path%3A**%2F.codeiumignore&type=code) | File exclusions |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.codeiumignore` | `path:**/.codeiumignore` | File exclusions | [Try](https://github.com/search?q=path%3A**%2F.codeiumignore&type=code) |
 
 ---
 
@@ -257,17 +257,17 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Repository Instructions
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `copilot-instructions.md` | [`path:**/copilot-instructions.md`](https://github.com/search?q=path%3A**%2Fcopilot-instructions.md&type=code) | Repository instructions |
-| `.github/instructions/` | [`path:.github/instructions`](https://github.com/search?q=path%3A.github%2Finstructions&type=code) | File-type instructions |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `copilot-instructions.md` | `path:**/copilot-instructions.md` | Repository instructions | [Try](https://github.com/search?q=path%3A**%2Fcopilot-instructions.md&type=code) |
+| `.github/instructions/` | `path:.github/instructions` | File-type instructions | [Try](https://github.com/search?q=path%3A.github%2Finstructions&type=code) |
 
 #### Prompts and Agents
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.github/prompts/` | [`path:.github/prompts`](https://github.com/search?q=path%3A.github%2Fprompts&type=code) | Prompt files |
-| `AGENTS.md` | [`path:**/AGENTS.md`](https://github.com/search?q=path%3A**%2FAGENTS.md&type=code) | Agent configuration |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.github/prompts/` | `path:.github/prompts` | Prompt files | [Try](https://github.com/search?q=path%3A.github%2Fprompts&type=code) |
+| `AGENTS.md` | `path:**/AGENTS.md` | Agent configuration | [Try](https://github.com/search?q=path%3A**%2FAGENTS.md&type=code) |
 
 ---
 
@@ -275,23 +275,23 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Configuration
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `config.toml` (codex) | [`path:.codex/config.toml`](https://github.com/search?q=path%3A.codex%2Fconfig.toml&type=code) | Main configuration |
-| `.codexrc` | [`path:**/.codexrc`](https://github.com/search?q=path%3A**%2F.codexrc&type=code) | Quick overrides |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `config.toml` (codex) | `path:.codex/config.toml` | Main configuration | [Try](https://github.com/search?q=path%3A.codex%2Fconfig.toml&type=code) |
+| `.codexrc` | `path:**/.codexrc` | Quick overrides | [Try](https://github.com/search?q=path%3A**%2F.codexrc&type=code) |
 
 #### Agent Instructions
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `AGENTS.md` | [`path:**/AGENTS.md`](https://github.com/search?q=path%3A**%2FAGENTS.md&type=code) | Agent guidance |
-| `AGENTS.override.md` | [`path:**/AGENTS.override.md`](https://github.com/search?q=path%3A**%2FAGENTS.override.md&type=code) | Override instructions |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `AGENTS.md` | `path:**/AGENTS.md` | Agent guidance | [Try](https://github.com/search?q=path%3A**%2FAGENTS.md&type=code) |
+| `AGENTS.override.md` | `path:**/AGENTS.override.md` | Override instructions | [Try](https://github.com/search?q=path%3A**%2FAGENTS.override.md&type=code) |
 
 #### Skills
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.codex/skills/` | [`path:.codex/skills`](https://github.com/search?q=path%3A.codex%2Fskills&type=code) | Skills directory |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.codex/skills/` | `path:.codex/skills` | Skills directory | [Try](https://github.com/search?q=path%3A.codex%2Fskills&type=code) |
 
 ---
 
@@ -299,24 +299,24 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Rules
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.clinerules` | [`path:**/.clinerules`](https://github.com/search?q=path%3A**%2F.clinerules&type=code) | Project rules file |
-| `.clinerules/` | [`path:**/.clinerules/*.md`](https://github.com/search?q=path%3A**%2F.clinerules%2F*.md&type=code) | Rules directory |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.clinerules` | `path:**/.clinerules` | Project rules file | [Try](https://github.com/search?q=path%3A**%2F.clinerules&type=code) |
+| `.clinerules/` | `path:**/.clinerules/*.md` | Rules directory | [Try](https://github.com/search?q=path%3A**%2F.clinerules%2F*.md&type=code) |
 
 #### Memory Bank
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `memory-bank/` | [`path:**/memory-bank/*.md`](https://github.com/search?q=path%3A**%2Fmemory-bank%2F*.md&type=code) | Memory bank files |
-| `cline_docs/` | [`path:**/cline_docs/*.md`](https://github.com/search?q=path%3A**%2Fcline_docs%2F*.md&type=code) | Legacy memory folder |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `memory-bank/` | `path:**/memory-bank/*.md` | Memory bank files | [Try](https://github.com/search?q=path%3A**%2Fmemory-bank%2F*.md&type=code) |
+| `cline_docs/` | `path:**/cline_docs/*.md` | Legacy memory folder | [Try](https://github.com/search?q=path%3A**%2Fcline_docs%2F*.md&type=code) |
 
 #### Ignore and MCP
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.clineignore` | [`path:**/.clineignore`](https://github.com/search?q=path%3A**%2F.clineignore&type=code) | File exclusions |
-| `cline_mcp_settings.json` | [`path:**/cline_mcp_settings.json`](https://github.com/search?q=path%3A**%2Fcline_mcp_settings.json&type=code) | MCP configuration |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.clineignore` | `path:**/.clineignore` | File exclusions | [Try](https://github.com/search?q=path%3A**%2F.clineignore&type=code) |
+| `cline_mcp_settings.json` | `path:**/cline_mcp_settings.json` | MCP configuration | [Try](https://github.com/search?q=path%3A**%2Fcline_mcp_settings.json&type=code) |
 
 ---
 
@@ -324,24 +324,24 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Modes and Rules
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.roomodes` | [`path:**/.roomodes`](https://github.com/search?q=path%3A**%2F.roomodes&type=code) | Custom mode definitions |
-| `.roo/rules/` | [`path:**/.roo/rules`](https://github.com/search?q=path%3A**%2F.roo%2Frules&type=code) | Rules directory |
-| `.roorules` | [`path:**/.roorules`](https://github.com/search?q=path%3A**%2F.roorules&type=code) | Legacy rules file |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.roomodes` | `path:**/.roomodes` | Custom mode definitions | [Try](https://github.com/search?q=path%3A**%2F.roomodes&type=code) |
+| `.roo/rules/` | `path:**/.roo/rules` | Rules directory | [Try](https://github.com/search?q=path%3A**%2F.roo%2Frules&type=code) |
+| `.roorules` | `path:**/.roorules` | Legacy rules file | [Try](https://github.com/search?q=path%3A**%2F.roorules&type=code) |
 
 #### Memory and MCP
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `memory-bank/` | [`path:**/memory-bank/productContext.md`](https://github.com/search?q=path%3A**%2Fmemory-bank%2FproductContext.md&type=code) | Memory bank context |
-| `.roo/mcp.json` | [`path:**/.roo/mcp.json`](https://github.com/search?q=path%3A**%2F.roo%2Fmcp.json&type=code) | MCP configuration |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `memory-bank/` | `path:**/memory-bank/productContext.md` | Memory bank context | [Try](https://github.com/search?q=path%3A**%2Fmemory-bank%2FproductContext.md&type=code) |
+| `.roo/mcp.json` | `path:**/.roo/mcp.json` | MCP configuration | [Try](https://github.com/search?q=path%3A**%2F.roo%2Fmcp.json&type=code) |
 
 #### Ignore
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.rooignore` | [`path:**/.rooignore`](https://github.com/search?q=path%3A**%2F.rooignore&type=code) | File exclusions |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.rooignore` | `path:**/.rooignore` | File exclusions | [Try](https://github.com/search?q=path%3A**%2F.rooignore&type=code) |
 
 ---
 
@@ -349,25 +349,25 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Configuration
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `opencode.json` | [`path:**/opencode.json`](https://github.com/search?q=path%3A**%2Fopencode.json&type=code) | Main configuration |
-| `opencode.jsonc` | [`path:**/opencode.jsonc`](https://github.com/search?q=path%3A**%2Fopencode.jsonc&type=code) | JSON with comments config |
-| `.opencode.json` | [`path:**/.opencode.json`](https://github.com/search?q=path%3A**%2F.opencode.json&type=code) | Alternative config |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `opencode.json` | `path:**/opencode.json` | Main configuration | [Try](https://github.com/search?q=path%3A**%2Fopencode.json&type=code) |
+| `opencode.jsonc` | `path:**/opencode.jsonc` | JSON with comments config | [Try](https://github.com/search?q=path%3A**%2Fopencode.jsonc&type=code) |
+| `.opencode.json` | `path:**/.opencode.json` | Alternative config | [Try](https://github.com/search?q=path%3A**%2F.opencode.json&type=code) |
 
 #### Agents and Modes
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.opencode/agent/` | [`path:**/.opencode/agent`](https://github.com/search?q=path%3A**%2F.opencode%2Fagent&type=code) | Agent definitions |
-| `.opencode/mode/` | [`path:**/.opencode/mode`](https://github.com/search?q=path%3A**%2F.opencode%2Fmode&type=code) | Mode configurations |
-| `.opencode/command/` | [`path:**/.opencode/command`](https://github.com/search?q=path%3A**%2F.opencode%2Fcommand&type=code) | Custom commands |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.opencode/agent/` | `path:**/.opencode/agent` | Agent definitions | [Try](https://github.com/search?q=path%3A**%2F.opencode%2Fagent&type=code) |
+| `.opencode/mode/` | `path:**/.opencode/mode` | Mode configurations | [Try](https://github.com/search?q=path%3A**%2F.opencode%2Fmode&type=code) |
+| `.opencode/command/` | `path:**/.opencode/command` | Custom commands | [Try](https://github.com/search?q=path%3A**%2F.opencode%2Fcommand&type=code) |
 
 #### Plugins
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.opencode/plugin/` | [`path:**/.opencode/plugin`](https://github.com/search?q=path%3A**%2F.opencode%2Fplugin&type=code) | Plugin files |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.opencode/plugin/` | `path:**/.opencode/plugin` | Plugin files | [Try](https://github.com/search?q=path%3A**%2F.opencode%2Fplugin&type=code) |
 
 ---
 
@@ -375,29 +375,29 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Configuration
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.aider.conf.yml` | [`path:**/.aider.conf.yml`](https://github.com/search?q=path%3A**%2F.aider.conf.yml&type=code) | Main configuration |
-| `.aiderignore` | [`path:**/.aiderignore`](https://github.com/search?q=path%3A**%2F.aiderignore&type=code) | Exclusion patterns |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.aider.conf.yml` | `path:**/.aider.conf.yml` | Main configuration | [Try](https://github.com/search?q=path%3A**%2F.aider.conf.yml&type=code) |
+| `.aiderignore` | `path:**/.aiderignore` | Exclusion patterns | [Try](https://github.com/search?q=path%3A**%2F.aiderignore&type=code) |
 
 #### Conventions
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `CONVENTIONS.md` | [`path:**/CONVENTIONS.md`](https://github.com/search?q=path%3A**%2FCONVENTIONS.md&type=code) | Coding standards |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `CONVENTIONS.md` | `path:**/CONVENTIONS.md` | Coding standards | [Try](https://github.com/search?q=path%3A**%2FCONVENTIONS.md&type=code) |
 
 #### History
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.aider.chat.history.md` | [`path:**/.aider.chat.history.md`](https://github.com/search?q=path%3A**%2F.aider.chat.history.md&type=code) | Chat history |
-| `.aider.input.history` | [`path:**/.aider.input.history`](https://github.com/search?q=path%3A**%2F.aider.input.history&type=code) | Input history |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.aider.chat.history.md` | `path:**/.aider.chat.history.md` | Chat history | [Try](https://github.com/search?q=path%3A**%2F.aider.chat.history.md&type=code) |
+| `.aider.input.history` | `path:**/.aider.input.history` | Input history | [Try](https://github.com/search?q=path%3A**%2F.aider.input.history&type=code) |
 
 #### Advanced
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.aider.model.settings.yml` | [`path:**/.aider.model.settings.yml`](https://github.com/search?q=path%3A**%2F.aider.model.settings.yml&type=code) | Model settings |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.aider.model.settings.yml` | `path:**/.aider.model.settings.yml` | Model settings | [Try](https://github.com/search?q=path%3A**%2F.aider.model.settings.yml&type=code) |
 
 ---
 
@@ -405,25 +405,25 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Configuration
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `config.yaml` (continue) | [`path:.continue/config.yaml`](https://github.com/search?q=path%3A.continue%2Fconfig.yaml&type=code) | Primary config |
-| `config.json` (continue) | [`path:.continue/config.json`](https://github.com/search?q=path%3A.continue%2Fconfig.json&type=code) | Legacy config |
-| `.continuerc.json` | [`path:**/.continuerc.json`](https://github.com/search?q=path%3A**%2F.continuerc.json&type=code) | Workspace override |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `config.yaml` (continue) | `path:.continue/config.yaml` | Primary config | [Try](https://github.com/search?q=path%3A.continue%2Fconfig.yaml&type=code) |
+| `config.json` (continue) | `path:.continue/config.json` | Legacy config | [Try](https://github.com/search?q=path%3A.continue%2Fconfig.json&type=code) |
+| `.continuerc.json` | `path:**/.continuerc.json` | Workspace override | [Try](https://github.com/search?q=path%3A**%2F.continuerc.json&type=code) |
 
 #### Rules
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.continuerules` | [`path:**/.continuerules`](https://github.com/search?q=path%3A**%2F.continuerules&type=code) | Rules file |
-| `.continue/rules/` | [`path:.continue/rules`](https://github.com/search?q=path%3A.continue%2Frules&type=code) | Rules directory |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.continuerules` | `path:**/.continuerules` | Rules file | [Try](https://github.com/search?q=path%3A**%2F.continuerules&type=code) |
+| `.continue/rules/` | `path:.continue/rules` | Rules directory | [Try](https://github.com/search?q=path%3A.continue%2Frules&type=code) |
 
 #### Agents and MCP
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.continue/agents/` | [`path:.continue/agents`](https://github.com/search?q=path%3A.continue%2Fagents&type=code) | Agent configs |
-| `.continue/mcpServers/` | [`path:.continue/mcpServers`](https://github.com/search?q=path%3A.continue%2FmcpServers&type=code) | MCP configs |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.continue/agents/` | `path:.continue/agents` | Agent configs | [Try](https://github.com/search?q=path%3A.continue%2Fagents&type=code) |
+| `.continue/mcpServers/` | `path:.continue/mcpServers` | MCP configs | [Try](https://github.com/search?q=path%3A.continue%2FmcpServers&type=code) |
 
 ---
 
@@ -431,11 +431,11 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Configuration
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `cody.json` (vscode) | [`path:.vscode/cody.json`](https://github.com/search?q=path%3A.vscode%2Fcody.json&type=code) | Custom commands |
-| `.codyignore` | [`path:**/.codyignore`](https://github.com/search?q=path%3A**%2F.codyignore&type=code) | File exclusions |
-| `.cody/ignore` | [`path:.cody/ignore`](https://github.com/search?q=path%3A.cody%2Fignore&type=code) | Alt ignore location |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `cody.json` (vscode) | `path:.vscode/cody.json` | Custom commands | [Try](https://github.com/search?q=path%3A.vscode%2Fcody.json&type=code) |
+| `.codyignore` | `path:**/.codyignore` | File exclusions | [Try](https://github.com/search?q=path%3A**%2F.codyignore&type=code) |
+| `.cody/ignore` | `path:.cody/ignore` | Alt ignore location | [Try](https://github.com/search?q=path%3A.cody%2Fignore&type=code) |
 
 ---
 
@@ -443,16 +443,16 @@ Replace `[directory]` with the config folder (`.claude`, `.cursor`, `.roo`, etc.
 
 #### Project Rules
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.amazonq/rules/` | [`path:.amazonq/rules`](https://github.com/search?q=path%3A.amazonq%2Frules&type=code) | Project rules |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.amazonq/rules/` | `path:.amazonq/rules` | Project rules | [Try](https://github.com/search?q=path%3A.amazonq%2Frules&type=code) |
 
 #### Agents and MCP
 
-| Config | Search Query | Description |
-|--------|-------------|-------------|
-| `.amazonq/agents/` | [`path:.amazonq/agents`](https://github.com/search?q=path%3A.amazonq%2Fagents&type=code) | Agent configs |
-| `.amazonq/mcp.json` | [`path:.amazonq/mcp.json`](https://github.com/search?q=path%3A.amazonq%2Fmcp.json&type=code) | MCP config |
+| Config | Query | Description |   |
+|--------|-------|-------------|---|
+| `.amazonq/agents/` | `path:.amazonq/agents` | Agent configs | [Try](https://github.com/search?q=path%3A.amazonq%2Fagents&type=code) |
+| `.amazonq/mcp.json` | `path:.amazonq/mcp.json` | MCP config | [Try](https://github.com/search?q=path%3A.amazonq%2Fmcp.json&type=code) |
 
 ---
 
